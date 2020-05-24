@@ -8,8 +8,11 @@ Basic RCE L02
 ## Approach  
 ![non-execute][jpg1]
 * 애초에 실행부터 불가 -> `정적 파일 분석`으로 방향 변경  
+
 ![HXD_screen][jpg2]
-* 헥스 에디터로 파일을 열어 보았을 때 `DOS Header`의 시그니처 `MZ`만 있고 `NT Header`의 시그니처 `PE`는 보이지 않는다. 파일 손상인 것  
+* 헥스 에디터로 파일을 열어 보았을 때 `DOS Header`의 시그니처 `MZ`만 있고 `NT Header`의 시그니처 `PE`는 보이지 않는다.   
+파일 손상인 것  
+
 ![pestudio][jpg3]
 * pestudion로 열어봐도 마찬가지  
   
