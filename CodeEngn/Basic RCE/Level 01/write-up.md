@@ -4,7 +4,8 @@ Basic RCE L01
 * HDD를 CD-Rom으로 인식시키기 위해서는 GetDriveTypeA의 리턴값이 무엇이 되어야 하는가
 ## Tool
 * ollydbg
-## Approach
+## Approach  
+![screen][jpg1]
 * API인 [GetDriveTypeA function][DriveAPI]에 대한 정보
   * `Return value`
     * `DRIVE_FIXED`: `3` //The drive has fixed media; for example, a hard disk drive or flash drive.
@@ -29,3 +30,4 @@ Basic RCE L01
   * `CMP EAX,ESI`를 `CMP EAX,EAX`와 같은 참 값을 띄게 변경
   
 [DriveAPI]: https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getdrivetypea
+[jpg1]: CodeEngn/Basic RCE/Level 01/Basic RCE L01.png
