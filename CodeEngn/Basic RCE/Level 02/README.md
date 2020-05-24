@@ -14,7 +14,7 @@ Basic RCE L02
 파일 손상인 것  
 
 ![pestudio][jpg3]
-* pestudion로 열어봐도 마찬가지  
+* pestudio로 열어봐도 마찬가지  
   
 * 해결
 ![string][jpg4]
