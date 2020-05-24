@@ -19,7 +19,8 @@ Basic RCE L02
 * 해결
 ![string][jpg4]
   * 파일의 ASICII 값으로 변환하여 문자쪽들을 보다보면 문자열들이 모여있는 곳을 확인할 수 있다.
-  * 해당 문자열들 중에서 패스워드를 추측 가능하다.
+  * 해당 문자열들 중에서 `패스워드`를 추측 가능하다.
+  * 추측값: `JK3FJZh`
   
   [jpg1]: https://github.com/presentnine/Wargame/blob/master/CodeEngn/Basic%20RCE/Level%2002/Basic%20RCE%20L02%201.png
   [jpg2]: https://github.com/presentnine/Wargame/blob/master/CodeEngn/Basic%20RCE/Level%2002/Basic%20RCE%20L02%202.png
