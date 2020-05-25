@@ -19,3 +19,8 @@
   ![screen][jpg3]  
   * 정답인 문자열은 `2G83G35Hs2`  
   ![screen][jpg4]
+  
+  [jpg1]: https://github.com/presentnine/Wargame/blob/master/CodeEngn/Basic%20RCE/Level%2003/Basic%20RCE%20L03%201.png
+  [jpg2]: https://github.com/presentnine/Wargame/blob/master/CodeEngn/Basic%20RCE/Level%2003/Basic%20RCE%20L03%202.png
+  [jpg3]: https://github.com/presentnine/Wargame/blob/master/CodeEngn/Basic%20RCE/Level%2003/Basic%20RCE%20L03%203.png
+  [jpg4]: https://github.com/presentnine/Wargame/blob/master/CodeEngn/Basic%20RCE/Level%2003/Basic%20RCE%20L03%204.png
