@@ -30,10 +30,10 @@ pestudio를 통해 해당 파일을 분석하니, 파일 이름 중에 `IsDebugg
   ![screen][jpg5]  
   ![screen][jpg6]
   
-  [API]:
-  [jpg1]:
-  [jpg2]:
-  [jpg3]:
-  [jpg4]:
-  [jpg5]:
+  [API]: https://docs.microsoft.com/en-us/windows/win32/api/debugapi/nf-debugapi-isdebuggerpresent
+  [jpg1]: 
+  [jpg2]: 
+  [jpg3]: 
+  [jpg4]: 
+  [jpg5]: 
   [jpg6]:
