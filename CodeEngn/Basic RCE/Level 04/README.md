@@ -31,9 +31,9 @@ pestudio를 통해 해당 파일을 분석하니, 파일 이름 중에 `IsDebugg
   ![screen][jpg6]
   
   [API]: https://docs.microsoft.com/en-us/windows/win32/api/debugapi/nf-debugapi-isdebuggerpresent
-  [jpg1]: 
-  [jpg2]: 
-  [jpg3]: 
-  [jpg4]: 
-  [jpg5]: 
-  [jpg6]:
+  [jpg1]: https://github.com/presentnine/Wargame/blob/master/CodeEngn/Basic%20RCE/Level%2004/Basic%20RCE%20L04%201.png
+  [jpg2]: https://github.com/presentnine/Wargame/blob/master/CodeEngn/Basic%20RCE/Level%2004/Basic%20RCE%20L04%202.png
+  [jpg3]: https://github.com/presentnine/Wargame/blob/master/CodeEngn/Basic%20RCE/Level%2004/Basic%20RCE%20L04%203.png
+  [jpg4]: https://github.com/presentnine/Wargame/blob/master/CodeEngn/Basic%20RCE/Level%2004/Basic%20RCE%20L04%204.png
+  [jpg5]: https://github.com/presentnine/Wargame/blob/master/CodeEngn/Basic%20RCE/Level%2004/Basic%20RCE%20L04%205.png
+  [jpg6]: https://github.com/presentnine/Wargame/blob/master/CodeEngn/Basic%20RCE/Level%2004/Basic%20RCE%20L04%206.png
