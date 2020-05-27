@@ -13,7 +13,7 @@
   
 pestudio를 통해 해당 파일을 분석하니, 파일 이름 중에 `IsDebuggerPresent`함수를 발견. 해당 function을 검색해 보았다.  
 ![screen][jpg3]  
-* API인 [IsDebuggerPresent function][API]에 대한 정보
+* API인 [IsDebuggerPresent] function[API]에 대한 정보
   * `Return value`
     * If the current process is running in the context of a debugger, the return value is `nonzero`.
     * If the current process is not running in the context of a debugger, the return value is `zero`.
